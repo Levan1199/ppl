@@ -1,0 +1,9 @@
+void main(){
+        int a;
+        float b;
+        boolean c;
+        a<b;
+        b>=a;
+        a>b;
+        b<=c;
+        }

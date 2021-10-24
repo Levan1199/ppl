@@ -1,0 +1,26 @@
+
+        int a,g[1] ;
+        float b,h,t;
+        boolean c;
+        string d;
+        int f[2];
+        float funcdecl(int a,b,c,float d ,string n, float a[], g[] ,boolean f){
+            int a,b,c;
+            float d[10],e[11];
+            a = 1;
+            b = a = 2.2;
+            boolean h;
+            a = f(b);
+            string q,w,r[20];
+            foo(a);
+            func(b);
+            test(c);
+            c = a + 12 == d || b - c != e ;
+            d = c + 13 == a && e - c != f;
+            c = a - b == 5|| (e + d) != m && (e - f) == b;
+            s = (c<d) || (b<e); 
+            r = (a < e)&& ( b != e);
+            a = (b > c) != (a < d);
+            return 0.0;
+        }
+        

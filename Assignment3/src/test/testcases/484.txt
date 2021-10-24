@@ -1,0 +1,17 @@
+string foo(){ 
+        int a, b;
+        if(2==2){ 
+        {
+        return "s";
+        }
+        } else {
+        if(a>b)
+        return "str";
+        else
+        if(a<=b)
+        return "s";
+        else
+        "s"; // Error
+        } 
+        }
+        void main(){}

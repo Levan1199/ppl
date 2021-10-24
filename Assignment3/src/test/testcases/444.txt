@@ -1,0 +1,3 @@
+int foo(int arr[]) {
+        arr = 2; }
+        void main(){  }

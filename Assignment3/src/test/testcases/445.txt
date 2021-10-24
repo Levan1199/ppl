@@ -1,0 +1,5 @@
+void noo(int a){}
+        void main(){
+        int a;
+        noo(getInt(a));
+        }

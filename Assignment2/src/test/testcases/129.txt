@@ -1,0 +1,4 @@
+int[] funcdecl(int a,b,c,float d ,string n, float a[], g[] ,boolean f){
+            return 14;
+        }
+        

@@ -1,0 +1,6 @@
+string str(){ 
+        if(2==2){ 
+        return "s"; 
+        } 
+        }
+        void main(){ str(); }

@@ -1,0 +1,6 @@
+int foo[10];
+        int boo[10];
+        int main() {
+        foo[3] = boo + 1;
+        return 0;
+        }

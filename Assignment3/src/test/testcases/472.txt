@@ -1,0 +1,75 @@
+
+        boolean d;
+        int foo(int c, float b){
+            float a;
+            string m[5];
+            m[1] = "abv";
+            return 1;
+        }
+        boolean new(int a[],float b, float c[]){
+            return true;
+        }
+        void main(){
+            int c[4];
+            int a;
+            float b;
+            string g;
+            float d[4];
+            d[3];
+            float z;
+            {
+                boolean b;
+                boolean z;
+                boolean c;
+                boolean d;
+                boolean t;
+                d && c;
+                c || z;
+                c = b;
+                int a;
+                {
+                    string r;
+                    int m[5];
+                    float c;
+                    int t;
+                    int b;
+                    float z;
+                    a + b;
+                    a - c;
+                    b * z;
+                    (a+b) / z;
+                    a % b;
+                    -t;
+                    ((a+c)/(b-z))*(-t-(m[2]+c-m[3]));
+                    a < c;
+                    b <= m[1];
+                    (a*b) > b;
+                    (c*z) >= (a/b);
+                    m[1] == (b*a);
+                    (a+b) != t;
+                    t = a = b;
+                    a > 1;
+                    {
+                        d = ((b<a) != (c>=a)) == (z >= m[1]);
+                        foo(a,z);
+                        foo2(a,d,z);
+                        foo2(((a + b)/b) %(a -(t * b)),d,z);
+                        foo(b,z);
+                        foo2(a,d,(a % b) * (t *(c/(z+m[1]))));
+                        foo3(r,c,b);
+                        float q[5];
+                        new(a,z,q);
+                    }
+                }
+            }
+            return;
+        }
+        int[] foo2(int a ,boolean c, float b){
+            int d[5];
+            return d;
+        }
+        string foo3(string a, float d, int c){
+            return "abc";
+        }
+
+        

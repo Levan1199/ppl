@@ -1,0 +1,12 @@
+
+        int a,g[1] ;
+        float b,h,t;
+        boolean c;
+        string d;
+        int f[2];
+        int a[3];
+        float funcdecl(int a,b,c,float d ,string n, float a[], g[] ,boolean f){
+            if(a < b || b == c) a =b; else break;
+            return 0.0;
+        }
+        

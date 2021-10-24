@@ -1,0 +1,41 @@
+
+        int a,g[1] ;
+        float b,h,t;
+        boolean c;
+        string d;
+        int f[2];
+        float funcdecl(int a,int b,int c,float d ,string n, float a[],string g[] ,boolean f){
+            if (a > b) a = b;
+            if (a == b) b = a ;
+            if (a != c && d < b || c >= d) a[12] = 10;
+            do{
+                int a,b,c;
+                float d[10],e[11];
+                a = 1;
+                b = a = 2.2;
+                boolean h;
+                a = f(b);
+                string q,w,r[20];
+                foo(a);
+                func(b);
+                test(c);
+                do{
+                    c = a / 12 == 3 || b - c != 4 ;
+                    d = c * 13 > 5 && e*c < 6;
+                    c = a - b || (e + d) != m && (e - f) == b;
+                    s = (c<d) || (b<e); 
+                    r = (a < e)&& -( b != e);
+                    a = -(b > c) != !(a < d);
+                    a = b/c/d/e;
+                    c = !a*b*c*d+d[b+f];
+                    d = a%d%4 - e[h%n] ;
+                    foo(2)[3+x] = a[b[2]] +3;
+                    test(a,b,c)[3-a[2+b]] = c[e[5]] -5;
+                    q = ---!a[m-n];
+                }
+                while ((a + b) < ( c -d) && a >= e);
+            }
+            while (a > b || c == d);
+            return 0.0;
+        }
+        

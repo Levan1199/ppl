@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(funcdecl),[],FloatType,Block([]))])

@@ -1,0 +1,4 @@
+void main(){
+        if(true) if(3==3) do for(3; 3<4; 4) if(false) if(true) break; while(false);
+        continue;
+        }

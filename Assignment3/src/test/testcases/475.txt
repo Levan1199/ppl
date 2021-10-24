@@ -1,0 +1,3 @@
+void main(){
+        putIntLn(3, getInt(), 3);
+        }

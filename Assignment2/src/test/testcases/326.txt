@@ -1,0 +1,4 @@
+boolean funcdecl(int a,string b,string c,float d, int f[]){
+            
+        }
+        

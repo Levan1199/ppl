@@ -1,0 +1,4 @@
+float funcdecl(int a,b,c,float d,boolean e){
+            return 11.1;
+        }
+        

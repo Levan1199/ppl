@@ -1,0 +1,9 @@
+float[] foo () {
+        int a;
+        float d;
+        float c[2];
+        return c;
+        }
+        void main(){
+        foo()[2] = true;
+        }

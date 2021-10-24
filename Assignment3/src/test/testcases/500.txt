@@ -1,0 +1,27 @@
+
+        boolean d;
+        int foo(float a){
+            boolean b[5];
+            if (a > 2){
+                float e;
+                e = new(b);
+                e + 1 = new(b);
+                return hello[0];
+            }
+            return hello[0];
+        }
+        int main(){
+            return 1;
+        }
+        float new(boolean a[]){
+            int b;
+            int c;
+            float d;
+            foo(d);
+            for (b= c; b<c; b = b+1){
+                return d;
+            }
+            return d;
+        }
+        int hello[1];
+        

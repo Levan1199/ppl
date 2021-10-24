@@ -1,0 +1,6 @@
+int[] t(int a){ int arr[2]; return arr; }
+        void main(){
+        int b[10], a[10];
+        int c, d, x;
+        t(11)[true || false] == a[1] - b[1] * x; 
+        }

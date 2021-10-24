@@ -1,0 +1,5 @@
+void main(){
+        boolean a;
+        do {} while(a);
+        do {} while("test");
+        }

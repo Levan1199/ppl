@@ -1,0 +1,4 @@
+float funcdecl(int a,string b,int c,float d,boolean e){
+            
+        }
+        

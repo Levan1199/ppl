@@ -1,0 +1,8 @@
+int foo(int i) {
+        return 0;
+        }
+        int main(int a) {
+        int main;
+        main = foo(2) + i;
+        return 0;
+        }

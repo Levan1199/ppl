@@ -1,0 +1,4 @@
+boolean funcdecl(int a){
+            return "false";
+        }
+        

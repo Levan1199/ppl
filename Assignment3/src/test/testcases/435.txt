@@ -1,0 +1,6 @@
+void main() {
+        int a;
+        float b;
+        boolean c;
+        a+b-a*b;
+        a/c; }

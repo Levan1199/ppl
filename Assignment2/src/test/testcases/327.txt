@@ -1,0 +1,4 @@
+string funcdecl(int a,string b, string c,float d ,string n, float a[], string g[]){
+            
+        }
+        

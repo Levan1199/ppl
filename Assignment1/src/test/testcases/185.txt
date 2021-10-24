@@ -1,0 +1,12 @@
+
+        int a,g[1] ;
+        float b,h,t;
+        boolean c;
+        string d;
+        int f[2];
+        int a[3];
+        int funcdecl(int a,b,c,float d ,string n, float a[], g[] ,boolean f){
+            for(a = 1 ; a< 10 ; a= a+1) continue;
+            return a>=b;
+        }
+        

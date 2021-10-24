@@ -1,0 +1,7 @@
+void main(){ 
+        float a,b; 
+        -(a-b);
+        int c[3];
+        string d;
+        a - c[1];
+        c[2] - d;}

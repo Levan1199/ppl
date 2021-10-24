@@ -1,0 +1,4 @@
+void main(){
+        float a;
+        for(3; 3<4; a){}
+        }

@@ -1,0 +1,5 @@
+int a;
+        int foo(){ flo(); return a; }
+        float flo(){ foo(); return flo(); }
+        void main(){ str(); 
+        }

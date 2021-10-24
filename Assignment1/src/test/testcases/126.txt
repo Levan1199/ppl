@@ -1,0 +1,4 @@
+boolean funcdecl(int a,b,c,float d, int f[]){
+            return true;
+        }
+        

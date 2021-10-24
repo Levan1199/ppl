@@ -1,0 +1,4 @@
+int a; float b;
+        int foo(){ int a; }
+        void main(){ int main; }
+        void b(){}

@@ -1,0 +1,6 @@
+void main(){
+        int a,x;
+        if(a==3){
+        for(x;x;x){}
+        }
+        }

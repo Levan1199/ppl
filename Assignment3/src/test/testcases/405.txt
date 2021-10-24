@@ -1,0 +1,4 @@
+void main (float a, int b, int a) {
+        int d;
+        float e;
+        }

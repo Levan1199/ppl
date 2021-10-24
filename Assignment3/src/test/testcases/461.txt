@@ -1,0 +1,14 @@
+boolean a(){
+        return d;
+        }
+        int b;
+        int c;
+        boolean d;
+        void main(){
+        do
+        a();
+        {
+        -!!!!!!!!!!a();
+        }
+        while(b > c);
+        }

@@ -1,0 +1,6 @@
+float[] main () {
+        int a;
+        float d;
+        float c[2];
+        return d;
+        }

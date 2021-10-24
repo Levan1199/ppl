@@ -1,0 +1,12 @@
+
+        int a,g[1] ;
+        float b,h,t;
+        boolean c;
+        string d;
+        int f[2];
+        int a[3];
+        float funcdecl(int a,b,c,float d ,string n, float a[], g[] ,boolean f){
+            do a = b+c; while ( a <10 || b > 5 && c == 8);
+            return 0.0;
+        }
+        

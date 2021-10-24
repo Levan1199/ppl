@@ -1,0 +1,6 @@
+void main () {
+        string a[3];
+        string b;
+        a[3] = b;
+        a[2] = 2;
+        }

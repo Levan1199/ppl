@@ -1,0 +1,5 @@
+string foo(){ 
+        { for(2; 2==2; 2){ 
+        { return "s"; } } } 
+        }
+        void main(){foo();}

@@ -1,0 +1,12 @@
+
+   
+        float b;
+   
+        
+        float funcdecl(float f){
+           
+           
+            return f;
+        }
+        funcdecl(b,z,x);
+        

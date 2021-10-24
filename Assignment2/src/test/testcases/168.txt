@@ -1,0 +1,15 @@
+
+        int a,g[1] ;
+        float b,h,t;
+        boolean c;
+        string d;
+        int f[2];
+        int a[3];
+        float funcdecl(int a,b,c,float d ,string n, float a[], g[] ,boolean f){
+            if (a > b) a = b;
+            if (a == b) b = a ;
+            if (a != c && d < b || c >= d) a[12] = 10;
+            if (a < b) a = b; else b = a;
+            return 0.0;
+        }
+        

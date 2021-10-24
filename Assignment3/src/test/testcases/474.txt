@@ -1,0 +1,9 @@
+int func(){
+        return 2;
+        }
+        void main(){
+        func(); //1
+        int func; //2
+        func = "string";
+        return;
+        }

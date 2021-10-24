@@ -1,0 +1,4 @@
+string funcdecl(int a,b,c,float d ,string n, float a[], g[]){
+            return "asdf";
+        }
+        

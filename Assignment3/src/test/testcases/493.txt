@@ -1,0 +1,7 @@
+void main() {
+        int a;
+        float b;
+        boolean c[3];
+        a+b-a*b;
+        c[3] = true;
+        c[2] = 2;}
